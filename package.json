@@ -1,0 +1,23 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/expert-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/expert-chainsaw/issues"
+  },
+  "homepage": "https://github.com/Xebec19/expert-chainsaw#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
